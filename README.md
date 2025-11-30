@@ -48,12 +48,5 @@ Previous Code draft code:
 
 
 
-
-
-
-
-------------
-
-
 Step:  
 - Install the https://circuitpython.org/board/raspberry_pi_pico2_w/ on Your Pico2W
