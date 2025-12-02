@@ -48,6 +48,26 @@ Previous Code draft code:
 
 
 
+
+
+
+
+
+
+
+
+----------------
+
+
+
+# Hollow Knight
+
+<img width="1742" height="1029" alt="image" src="https://github.com/user-attachments/assets/eed7d996-e112-4d49-b016-8d26429989c0" />
+
+
+
+
+
 Step:  
 - Install the https://circuitpython.org/board/raspberry_pi_pico2_w/ on Your Pico2W
 - https://github.com/EloiStree/2023_09_21_SimulateJoystickInputSearch/blob/main/Code/2023_09_22_MidiToJoystickSimulation/boot.py
